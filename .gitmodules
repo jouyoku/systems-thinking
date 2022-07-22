@@ -1,0 +1,3 @@
+[submodule "st-editor"]
+	path = st-editor
+	url = https://github.com/jouyoku/st-editor.git
